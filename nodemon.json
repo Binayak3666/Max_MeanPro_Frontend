@@ -1,0 +1,6 @@
+{
+  "env":{
+    "MONGO_ATLAS_PW":"Spbr1995",
+    "JWT_KEY":"Secrate_Unknown@123"
+  }
+}
